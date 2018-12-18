@@ -1,0 +1,19 @@
+{
+  "name": "baluobo/aip-php-sdk",
+  "description": "",
+  "homepage": "http://github.com/baluobo/aip-php-sdk",
+  "license": "ISC",
+  "keywords": ["php", "aip", "sdk"],
+  "authors": [
+    {
+      "name": "Wei Peng"
+    }
+  ],
+  "require": {
+    "php": ">=5.2"
+  },
+  "type": "library",
+  "autoload": {
+    "psr-0": {"": "src/"}
+  }
+}
